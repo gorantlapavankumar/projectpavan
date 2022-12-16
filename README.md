@@ -21,12 +21,11 @@ project demo video link-https://youtu.be/JOQDlSiubn8
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
-
-
-
-
-😃![Screenshot_20221216-104253_Chrome](https://user-images.githubusercontent.com/117804384/208071585-36791247-176c-409a-b057-dc1036cce4cb.jpg)
-![Screenshot_20221216-104258_Chrome](https://user-images.githubusercontent.com/117804384/208072056-248f4768-df32-43ed-a8c9-4ea26f3c4912.jpg)
+😃![Screenshot_20221216-104324_Chrome](https://user-images.githubusercontent.com/117804384/208072157-d39a569d-5344-4a4c-97dc-ced1ae2611e5.jpg)
 ![Screenshot_20221216-104314_Chrome](https://user-images.githubusercontent.com/117804384/208072117-fc58976d-12fb-43d0-b87e-7d87daa60f47.jpg)
-![Screenshot_20221216-104324_Chrome](https://user-images.githubusercontent.com/117804384/208072157-d39a569d-5344-4a4c-97dc-ced1ae2611e5.jpg)
+![Screenshot_20221216-104258_Chrome](https://user-images.githubusercontent.com/117804384/208072056-248f4768-df32-43ed-a8c9-4ea26f3c4912.jpg)
+![Screenshot_20221216-104253_Chrome](https://user-images.githubusercontent.com/117804384/208071585-36791247-176c-409a-b057-dc1036cce4cb.jpg)
+
+
+
 
