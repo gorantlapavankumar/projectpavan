@@ -1,14 +1,17 @@
-# ✨ Telugu Health  ✨
+# ✨ PROCLINIC SERVICES AROUND THE WORLD ✨
 
 This is a web based application developed for health related telugu based website in india
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - http://teluguhealth.southindia.cloudapp.azure.com/
+**Project Link** - https://blue-water-0915af300.2.azurestaticapps.net/
+project demo video link-https://youtu.be/JOQDlSiubn8
 
 
-## Features and Functionalities 😃
+
+## Features and Functionalities 
+
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
@@ -18,9 +21,12 @@ This is a web based application developed for health related telugu based websit
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
+😃![Screenshot_20221216-104253_Chrome](https://user-images.githubusercontent.com/117804384/208071585-36791247-176c-409a-b057-dc1036cce4cb.jpg)
+![Screenshot_20221216-104258_Chrome](https://user-images.githubusercontent.com/117804384/208072056-248f4768-df32-43ed-a8c9-4ea26f3c4912.jpg)
+![Screenshot_20221216-104314_Chrome](https://user-images.githubusercontent.com/117804384/208072117-fc58976d-12fb-43d0-b87e-7d87daa60f47.jpg)
+![Screenshot_20221216-104324_Chrome](https://user-images.githubusercontent.com/117804384/208072157-d39a569d-5344-4a4c-97dc-ced1ae2611e5.jpg)
 
- 📸![Screenshot 2022-03-07 090754](https://user-images.githubusercontent.com/98517345/156963750-f5d694b6-a371-4b41-817f-22c8291b37da.jpg)
 
 
 
-   
+
