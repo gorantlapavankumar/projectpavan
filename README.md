@@ -25,10 +25,10 @@ project demo video link-https://youtu.be/JOQDlSiubn8
 ![Screenshot_20221216-104314_Chrome](https://user-images.githubusercontent.com/117804384/208072117-fc58976d-12fb-43d0-b87e-7d87daa60f47.jpg)
 ![Screenshot_20221216-104258_Chrome](https://user-images.githubusercontent.com/117804384/208072056-248f4768-df32-43ed-a8c9-4ea26f3c4912.jpg)
 ![Screenshot_20221216-104253_Chrome](https://user-images.githubusercontent.com/117804384/208071585-36791247-176c-409a-b057-dc1036cce4cb.jpg)
-Staff
+Staf
 Perspiciatis,Voluptate,Architecto
-
 Contact
+
 500 Lorem Ipsum Dolor Sit,
 22-56-2-9 Sit Amet, Lorem,USA
 
