@@ -29,8 +29,8 @@ Staff
 Perspiciatis,Voluptate,Architecto
 Contact
 500 Lorem Ipsum Dolor Sit,
-22-56-2-9 Sit Amet, Lorem,
-USA
+22-56-2-9 Sit Amet, Lorem,USA
+
 Phone:(00) 222 666 444
 Fax: (000) 000 00 00 0
 Email: mail@example.com
